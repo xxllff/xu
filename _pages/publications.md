@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="[{{site.author.googlescholar}}](https://scholar.google.com/citations?hl=en&user=7daNLEAAAAAJ&view_op=list_works&gmla=AKKJWFe5gcSsqvqmLdHVrzeP5B2RM2TYtf3XT778Q4p2qYxqyWfy67jA_tm7A8NYMucAdj_qfuQrL00DLxHK-rmB)https://scholar.google.com/citations?hl=en&user=7daNLEAAAAAJ&view_op=list_works&gmla=AKKJWFe5gcSsqvqmLdHVrzeP5B2RM2TYtf3XT778Q4p2qYxqyWfy67jA_tm7A8NYMucAdj_qfuQrL00DLxHK-rmB">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
