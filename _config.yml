@@ -83,10 +83,10 @@ author:
   name             : "Longfei Xu 徐龙飞"
   avatar           : "profile.png"
   bio              : "Ph.D in SJTU"
-  location         : "Shanghai"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7daNLEAAAAAJ&view_op=list_works&gmla=AKKJWFe5gcSsqvqmLdHVrzeP5B2RM2TYtf3XT778Q4p2qYxqyWfy67jA_tm7A8NYMucAdj_qfuQrL00DLxHK-rmB"
   email            : "xlf2023@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-9186-5242"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
