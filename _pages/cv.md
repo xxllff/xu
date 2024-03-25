@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Biology (Biology), Shanghai Jiao Tong University, 2028 (expected)
+* Ph.D in Computational Biology, Shanghai Jiao Tong University, 2028 (expected)
 * B.S. in Software Engineering, Zhengzhou University, 2023
 
 Work experience
